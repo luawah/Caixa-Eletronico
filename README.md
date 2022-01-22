@@ -1,2 +1,4 @@
 # CaixaEletronico
-A java program that simulates an ATM.
+a system of bank with a similar interface that of an ATM.
+
+
